@@ -10,3 +10,6 @@
 #### ## What we learned
 > "We learned that even a model with a billion parameters needs 'linguistic discipline.' Fine-tuning isn't just about showing more images; it’s about aligning the model's internal probability map to the specific grammar of the target language. In the RTL domain, **Inference Normalization** is just as important as training loss."
 
+#### ## Credit & Aknowledgement
+> **Data Acknowledgements:**
+> We would like to express our gratitude to **Mohammad Javad Esmaeili** for providing the `Persian_Arabic_TextLine_Image_Ocr_Medium` dataset. This open-source contribution was essential in training our model to handle the nuances of Persian and Arabic scripts.
