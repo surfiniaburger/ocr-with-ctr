@@ -12,4 +12,4 @@
 
 #### ## Credit & Aknowledgement
 > **Data Acknowledgements:**
-> We would like to express our gratitude to **Mohammad Javad Esmaeili** for providing the `Persian_Arabic_TextLine_Image_Ocr_Medium` dataset. This open-source contribution was essential in training our model to handle the nuances of Persian and Arabic scripts.
+> We would like to express our gratitude to **Mohammad Reza Hajesmaeili** for providing the `Persian_Arabic_TextLine_Image_Ocr_Medium` dataset. This open-source contribution was essential in training our model to handle the nuances of Persian and Arabic scripts.
